@@ -15,8 +15,11 @@ Game End Conditions:
 
 🗂️ Project Structure
 Monster.java → Defines the Monster class
+
 Player.java → Defines the Player class
+
 Game.java → Controls the game flow and rules
+
 MyHashMap.java → Custom hash table implementation for storing monsters
 
 📚 Notes
