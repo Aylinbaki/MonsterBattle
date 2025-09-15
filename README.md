@@ -1,4 +1,5 @@
 🐉 MonsterBattle
+
 📌 About the Project
 MonsterBattle is a Java-based project developed as part of the Data Structures and Algorithms course.
 The project implements fundamental data structures and applies them in a simple monster battle game. 
