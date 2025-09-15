@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Java
+*.class
+*.log
+*.iml
+target/
+out/
+
+# IDE’ler
+.idea/
+.vscode/
+
